@@ -1,4 +1,4 @@
-# Group-Recommendation-System
+# Group-Recommendation-System 
 
 #### Dataset:
 
@@ -10,4 +10,6 @@ Dataset consists of five columns like *Age*, *Gender*, *Movies*, *Hobbies*, *Mus
 
 *Movies*, *Hobbies*, *Music* : It has values between 1 to 10. It signifies the interest and how a persin will rate oneself to spend the leisure time.
 
-Before applying any algorithm, the data is scaled using _StandardScaler()_. After normalizing the data, K-Means clustering algorithm is applied. To decide how many clusters to be formed, *elbow* method is used. Atlast, visualization of cluster is done.  
+Before applying any algorithm, the data is scaled using _StandardScaler()_. After normalizing the data, K-Means clustering algorithm is applied. To decide how many clusters to be formed, *elbow* method is used. Atlast, visualization of cluster is done. 
+
+Feel free to create issues and pull requests 🎉
